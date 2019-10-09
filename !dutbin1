@@ -1,0 +1,31 @@
+<html> <!好像不写这个也没问题？？？>
+<body style="background-color:grey"> <!设置背景颜色，不让用bgcolor了>
+
+<a href="http://www.w3school.com.cn">This is a link</a> <!超文本链接>
+
+<img src="w3school.jpg"width="104"height="142"/> <!import picture>
+<p>This <br/>is mt <br/>first paragraph.</p> <! br == "\n">
+
+<h1 align="center">this</h1> <！让用下面那个居中QAQ>
+<h1 style="text-align:center">This is a juzhongQAQ</h1> <!对，就是这个>
+
+<table border="1">123</table> <!目前并不知道有什么用>
+
+<p>132</p>
+<hr/><!水平线>
+<p>456</p>
+<hr/>
+<! aaaaaa> <! 第一个测试>
+</body>
+
+<body style="background-color:yellow"> <!两次颜色只采用第一次，我还以为能上下分开两个body……>
+<h1 style="font-family:verdana">A heading</h1>
+<p style="font-family:arial;color:red;font-size:20px;">A paragraph.</p><!字体系列、颜色和字体尺寸鬼知道都有什么系列，还有分号隔开>
+<h1 style="background-color:red">this is a red<h1/>
+</body>
+
+<p style="font-size:5px;">I want to ask that:<q>how to use body</q></p><!q是双引号>
+<blockquote> e , wobingbuzhidaoyoushenmeyong.jpg </blockquote><!所以加网页链接的意义何在？？另外，这是缩进><等等,什么也不加也能显示，比如这个？？>
+<p><abbr title="hello world">233</abbr>aaa</p>
+
+</html>
